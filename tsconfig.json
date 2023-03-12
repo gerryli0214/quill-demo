@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"allowSyntheticDefaultImports": true,
+		"target": "es6",
+		"module": "es6",
+		"strict": false,
+		"jsx": "preserve",
+		"moduleResolution": "node",
+		"baseUrl": ".",
+		"paths": {
+			"@parchment/*": ["src/plugins/parchment/*"]
+		}
+	},
+	"include": ["src/**/*"],
+	"exclude": ["node_modules", "**/*.spec.ts"]
+}

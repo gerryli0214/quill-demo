@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1393801",
+      "name": "undo",
+      "font_class": "undo",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "7685229",
+      "name": "redo",
+      "font_class": "redo",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    }
+  ]
+}
